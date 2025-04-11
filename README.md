@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola soy Dulce Dominguez 👋
+
+🎓 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP)
+
+📍 Actualmente en **2º año**
+
+🧠 Me apasiona la programacion, la resolucion de problemas y aprender algo nuevo todos los dias.
+
+## 📫 ¿Querés contactarme?
+- Email: duldominguez1@gmail.com
 
 <!--
 **Dulceguez/Dulceguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
