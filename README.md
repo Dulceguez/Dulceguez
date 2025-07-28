@@ -4,8 +4,6 @@
 
 📍 Actualmente en **3º año**
 
-🧠 Amo la programación, la resolución de problemas y aprender algo nuevo todos los dias. Mi objetivo es seguir creciendo como desarrolladora y aportar al mundo del software.
-
 ## 🛠️ Tecnologías y lenguajes que estoy aprendiendo
 - 💻 **Java**
 - 💻 **JavaScript**
