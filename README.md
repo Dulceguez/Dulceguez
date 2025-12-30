@@ -14,7 +14,6 @@
 ## 📫 ¿Querés contactarme?
 - **Email**: duldominguez1@gmail.com
 
-📎 También podés encontrarme pronto en LinkedIn y otros espacios... ¡en construcción! 🚧😉
 <!--
 **Dulceguez/Dulceguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
