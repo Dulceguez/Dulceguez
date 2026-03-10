@@ -4,16 +4,17 @@
 
 📍 Actualmente en **3º año**
 
-## 🛠️ Tecnologías y lenguajes que estoy aprendiendo
+## 🛠️ Tecnologías y lenguajes
 - 💻 **Java**
-- 💻 **JavaScript**
+- 💻 **JavaScript**/**TypeScript**
 - 🌐 **HTML/CSS**
 - 🔁 Git & GitHub
+- 🤖 **n8n**
 - 📚 Pascal (como parte de la formación universitaria)
 
-## 📫 ¿Querés contactarme?
-- **Email**: duldominguez1@gmail.com
-
+## 📫 Contacto
+- **Email:** [duldominguez1@gmail.com](mailto:duldominguez1@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/dulce-dominguez-ab33463aa](https://www.linkedin.com/in/dulce-dominguez-ab33463aa/)
 <!--
 **Dulceguez/Dulceguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
