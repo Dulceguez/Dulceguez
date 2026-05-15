@@ -8,9 +8,7 @@
 - 💻 **Java**
 - 💻 **JavaScript**/**TypeScript**
 - 🌐 **HTML/CSS**
-- 🔁 Git & GitHub
 - 🤖 **n8n**
-- 📚 Pascal (como parte de la formación universitaria)
 
 ## 📫 Contacto
 - **Email:** [duldominguez1@gmail.com](mailto:duldominguez1@gmail.com)  
