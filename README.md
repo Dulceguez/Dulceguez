@@ -1,16 +1,9 @@
 ## Hola soy Dulce Dominguez 👋
 
-🎓 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP)
+Estudiante de Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP)
 
-📍 Actualmente en **3º año**
+Actualmente en 3º año
 
-## 🛠️ Tecnologías y lenguajes
-- 💻 **Java**
-- 💻 **JavaScript**/**TypeScript**
-- 🌐 **HTML/CSS**
-- 🤖 **n8n**
-
-## 📫 Contacto
 - **Email:** [duldominguez1@gmail.com](mailto:duldominguez1@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/dulce-dominguez-ab33463aa](https://www.linkedin.com/in/dulce-dominguez-ab33463aa/)
 <!--
